@@ -30,6 +30,11 @@ yfinance
 
 ---
 
+**File:** [Hedge Beta](HedgeBeta.ipynb)
+
+---
+
+
 ## Step 1: Get the data
 
 Get the data. For this example I use TSLA as an example of a stock portfolio. You can use actual portfolio returns instead.
