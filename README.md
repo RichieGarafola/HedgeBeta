@@ -43,6 +43,8 @@ we will use TSLA as the asset and SPY as the benchmark for this example using th
 
 
 **Plot the Daily returns**
+
+
 !['Daily Return'](./Images/LinearRegression.jpg)
 
 ---
